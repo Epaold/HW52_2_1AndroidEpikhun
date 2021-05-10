@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HW52_1AndroidEpikhun</string>
+
+    <string name="enter_register_usernamer">Ввести имя пользователя для регистрации!</string>
+    <string name="enter_password">Введите пароль!</string>
+    <string name="enter_username">Введите имя пользователя!</string>
+    <string name="user_is_exist">Пользователь уже существует!</string>
+    <string name="user_is_not_exist">Пользователь не существует!</string>
+    <string name="user_is_logined_already">Пользователь уже залогинен!</string>
+    <string name="new_user_is_registered">Новый пользователь зарегистрирован!</string>
+    <string name="user_is_logined">Пользователь залогинен!</string>
+    <string name="users_db_loaded">База пользователей загружена!</string>
+      <string name="password_is_wrong">Неверный пароль!</string>
+
+    <string name="users_db_loaded_internal">%d пользователей загружено из внутренней памяти!</string>
+    <string name="users_db_loaded_external">%d пользователей загружено из внешней памяти!</string>
+
+</resources>
